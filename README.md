@@ -1,2 +1,33 @@
-# IV-Legacy
-UTAU VB.
+# UTAU-VB-IV (담)
+IV / 담 / 
+UTAU Voicebank with the voice of vocalsynth producer iv=p(KOR).
+한국인 보컬로이드 프로듀서 iv=p의 목소리로 제작된 우타우 음원입니다.
+
+KOR / ENG / JPN Multilingual. Supports multiple languages in same track.
+한국어 / 영어 / 일본어 지원. 전용 포네마이저를 사용하면 같은 트랙에서 모든 언어를 사용할 수 있습니다.
+
+Tuned with Moresampler (Recommended). Feel free to use whatever resampler you like. Although, using Wordline-R might result in glitched sounds.
+moresampler 리샘플러에 맞춰 튜닝하였으나 어느 리샘플러든 자유롭게 사용하셔도 됩니다. 단, Wordline-R을 사용해 봤을 때 몇몇 발음에서 기묘한 소리가 발생하여 사용을 권장드리지 않습니다.
+
+
+### Phonemizer
+- Voicebank IV uses its own multi-language phonemizer(included in VB). Download and add in OpenUTAU/Plugins Folder to use.
+- There are also single-language versions of IV
+
+### Terms and Conditions 이용약관
+- If you download this VB, you will be considered that you agree with this guideline.
+  상기 음원을(보이스뱅크를) 다운로드 및 사용할 시 아래의 약관에 동의하는 것으로 간주하겠습니다.
+
+- Do NOT use the raw internal data for commercial purposes, or re-distribute the data on other platforms.
+  내장 음성 데이터를 UTAU 계열 프로그램에서 합성한 것 이외에 상업적인 사용을 금합니다. 여기에는 데이터를 그냥 판매하거나, UTAU 리샘플러 이외의 신호 처리를 거쳐 데이터로 사용하는 것이 포함됩니다.
+  재배포를 금합니다.
+  
+**- Do NOT feed the internal data into Artificial Intelligence. 
+  내장 음성 데이터 및 리샘플러를 통해 합성한 음성 데이터를 사용한 무단 AI 학습을 금합니다.
+  (제가 리샘플러 전 암호화 프로그램을 개발하게 하지 말아주시면 고맙겠습니다.)
+
+- If you wish to do so for research purposes, please contact the Gmail address below to discuss the details. I will be 
+  연구 목적으로 사용하고 싶을 시, 아래의 연락처로 메일을 남겨 주세요. 가급적 긍정적으로 검토하겠습니다.**
+  
+By happyfloatingsquid / ivyrecords11
+Mail: ivyrecords11@gmail.com
