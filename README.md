@@ -1,5 +1,5 @@
-# UTAU-VB-IV (담)
-IV / 담 / 
+# UTAU-VB-IV
+IV ['i:v] / 담 / 蔦葉イブ [ツタノハ イブ]
 UTAU Voicebank with the voice of vocalsynth producer iv=p(KOR).
 한국인 보컬로이드 프로듀서 iv=p의 목소리로 제작된 우타우 음원입니다.
 
@@ -9,25 +9,49 @@ KOR / ENG / JPN Multilingual. Supports multiple languages in same track.
 Tuned with Moresampler (Recommended). Feel free to use whatever resampler you like. Although, using Wordline-R might result in glitched sounds.
 moresampler 리샘플러에 맞춰 튜닝하였으나 어느 리샘플러든 자유롭게 사용하셔도 됩니다. 단, Wordline-R을 사용해 봤을 때 몇몇 발음에서 기묘한 소리가 발생하여 사용을 권장드리지 않습니다.
 
+## Demo 데모곡
 
-### Phonemizer
+
+## Specifications 상세 설명
+### 2음색 지원 - Stable / Flow
+- **Stable**: 
+- **Flow**: 가성을 사용하고 비교적 약한 발음의 음원
+
+---
+
+## Phonemizer
 - Voicebank IV uses its own multi-language phonemizer(included in VB). Download and add in OpenUTAU/Plugins Folder to use.
-- There are also single-language versions of IV
+  음원 '담'은 전용 포네마이저를 사용합니다.
+  
+- Single-language versions of IV will be updated soon to match the existing phonemizers.
 
-### Terms and Conditions 이용약관
+---
+## Setup
+### VB Install 음원 설치
+### Phonemizer Install 포네마이저 설치
+### 가사 입력
+---
+
+## Terms and Conditions 이용약관
+
 - If you download this VB, you will be considered that you agree with this guideline.
-  상기 음원을(보이스뱅크를) 다운로드 및 사용할 시 아래의 약관에 동의하는 것으로 간주하겠습니다.
+
+  상기 음원을(보이스뱅크를) 다운로드 및 사용할 시 아래의 약관에 동의하는 것으로 간주됩니다.
 
 - Do NOT use the raw internal data for commercial purposes, or re-distribute the data on other platforms.
+
   내장 음성 데이터를 UTAU 계열 프로그램에서 합성한 것 이외에 상업적인 사용을 금합니다. 여기에는 데이터를 그냥 판매하거나, UTAU 리샘플러 이외의 신호 처리를 거쳐 데이터로 사용하는 것이 포함됩니다.
-  재배포를 금합니다.
+  다른 플랫폼에서 재배포를 금합니다.
   
-**- Do NOT feed the internal data into Artificial Intelligence. 
+- **Do NOT feed the internal data into Artificial Intelligence.
+
   내장 음성 데이터 및 리샘플러를 통해 합성한 음성 데이터를 사용한 무단 AI 학습을 금합니다.
   (제가 리샘플러 전 암호화 프로그램을 개발하게 하지 말아주시면 고맙겠습니다.)
 
 - If you wish to do so for research purposes, please contact the Gmail address below to discuss the details. I will be 
   연구 목적으로 사용하고 싶을 시, 아래의 연락처로 메일을 남겨 주세요. 가급적 긍정적으로 검토하겠습니다.**
+
+감사합니다. 
   
 By happyfloatingsquid / ivyrecords11
 Mail: ivyrecords11@gmail.com
