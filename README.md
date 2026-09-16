@@ -1,5 +1,8 @@
-# UTAU-VB-IV
-IV ['i:v] / 담 / 蔦葉イブ [ツタノハ イブ]
+# IV (UTAU Voicebank)
+ENG: IV ['i:v] 
+KOR: 담 
+JPN: 蔦葉イブ [ツタノハ イブ]
+
 UTAU Voicebank with the voice of vocalsynth producer iv=p(KOR).
 한국인 보컬로이드 프로듀서 iv=p의 목소리로 제작된 우타우 음원입니다.
 
@@ -13,9 +16,39 @@ moresampler 리샘플러에 맞춰 튜닝하였으나 어느 리샘플러든 자
 
 
 ## Specifications 상세 설명
+
 ### 2음색 지원 - Stable / Flow
-- **Stable**: 
-- **Flow**: 가성을 사용하고 비교적 약한 발음의 음원
+
+- **Stable**: 안정되고 단단한 발성의 음원 (Default)
+- **Flow**: 가성을 사용하며 비교적 약한 발음의 음원
+
+### 지원 언어 - 
+
+### Voice Specifics
+
+#### KOR 
+
+Rentan / 502 labels
+  
+  Stable   C4/F4/C5
+
+  Flow     C4/G4/D5
+  
+#### JPN
+
+CVVC / 320 labels
+  
+  Stable   C4/F4/C5
+  
+  Flow     C4/G4/D5
+
+#### ENG
+
+Arpasing / 900 labels
+
+  Stable   G5
+  
+  Flow     A3
 
 ---
 
